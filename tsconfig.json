@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "ES2019",
+    "isolatedModules": false,
+    "outDir": "dist",
+    "declaration": true
+  },
+  "include": ["services/**/*"],
+  "exclude": ["services/**/*.test.ts"]
+}
