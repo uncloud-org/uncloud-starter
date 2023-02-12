@@ -6,6 +6,6 @@
     "outDir": "dist",
     "declaration": true
   },
-  "include": ["services/**/*"],
-  "exclude": ["services/**/*.test.ts"]
+  "include": ["./**/*"],
+  "exclude": ["./**/*.test.ts"]
 }
