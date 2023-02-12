@@ -1605,10 +1605,10 @@
   dependencies:
     "@types/yargs-parser" "*"
 
-"@uncloud-sdk/cli@^0.0.24":
-  version "0.0.24"
-  resolved "https://registry.yarnpkg.com/@uncloud-sdk/cli/-/cli-0.0.24.tgz#6cf8c8dab358ab3a1f6f9501e71232cbe9abc2b9"
-  integrity sha512-LYFjWRMyOqPoKLnUSIj7IgkGYmFVxbwnVVWFYZAPKuMkORRaWjgufoSL1d8gyrvkNRrUFigHKev087hs6KQOiA==
+"@uncloud-sdk/cli@^0.0.27":
+  version "0.0.27"
+  resolved "https://registry.yarnpkg.com/@uncloud-sdk/cli/-/cli-0.0.27.tgz#afc6c272a7e2603bbc633c1b5e330a07f67dcfe0"
+  integrity sha512-ZnuoYhm7sBUi4XDzAUCBFFCXHIbpbJPTOwX5wDdnIBrH+OvZc6svDizNGNeQ+a6tzqa/ByB0QL4+fz0MNueg7g==
   dependencies:
     "@uncloud-sdk/lib" "^0.0.18"
     axios "^1.2.5"
@@ -1636,18 +1636,18 @@
     esbuild "^0.17.3"
     qs "^6.10.3"
 
-"@uncloud-sdk/lib@^0.0.24":
-  version "0.0.24"
-  resolved "https://registry.yarnpkg.com/@uncloud-sdk/lib/-/lib-0.0.24.tgz#0c724ce4ad9e37115e18f466c959631790af579f"
-  integrity sha512-Q7v4wdfPNHGqBEnH7bI8Bv44m+kM9mZW3hgRpDkhsAQudZFpaW/lEJjL3ErILDJCsxYU8YRIEibakgiGMWmk2Q==
+"@uncloud-sdk/lib@^0.0.27":
+  version "0.0.27"
+  resolved "https://registry.yarnpkg.com/@uncloud-sdk/lib/-/lib-0.0.27.tgz#b2f750fa4dfae3af01621c4b3a6cba57dfc3f42a"
+  integrity sha512-UaF224aHZitaaPZNal2pc8Kf6FQZEneVfa0CC7sVAmXvTPvIYPpUvjpKad6inH/vFtAZfucW3m/ts9Y85MF5Wg==
   dependencies:
     esbuild "^0.17.3"
     qs "^6.10.3"
 
-"@uncloud-sdk/testutils@^0.0.24":
-  version "0.0.24"
-  resolved "https://registry.yarnpkg.com/@uncloud-sdk/testutils/-/testutils-0.0.24.tgz#6f9852d4b0258598077b4e230077f6d7b91d543b"
-  integrity sha512-5vrH1p2VDneBWGu+QNMotyK9kSIXtj2tMmGFRPARheDrfQNA/5OMD6BoyrlPKezRMbttyLneD6CUNnCLmE/hNw==
+"@uncloud-sdk/testutils@^0.0.27":
+  version "0.0.27"
+  resolved "https://registry.yarnpkg.com/@uncloud-sdk/testutils/-/testutils-0.0.27.tgz#c354be306fef0ae729e95ffa33b679410e56830d"
+  integrity sha512-7k2skzygXKmgUM8Gtn+XxrjqhA5+Qs8D1m+k7Bk1gdKw3PPn5cTEhg1vI48Y5QAd2giHn3rKPYX46Iif6ad1QQ==
   dependencies:
     esbuild "^0.17.3"
     qs "^6.10.3"

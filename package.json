@@ -16,9 +16,9 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@uncloud-sdk/cli": "^0.0.24",
-    "@uncloud-sdk/lib": "^0.0.24",
-    "@uncloud-sdk/testutils": "^0.0.24",
+    "@uncloud-sdk/cli": "^0.0.27",
+    "@uncloud-sdk/lib": "^0.0.27",
+    "@uncloud-sdk/testutils": "^0.0.27",
     "ts-node": "^10.9.1",
     "typescript": "^4.9.5"
   },
