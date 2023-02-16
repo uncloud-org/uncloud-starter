@@ -1,17 +1,22 @@
 # uncloud-starter
 > ✨ uncloud is currently in closed preview. [Join waitinglist](https://getuncloud.com/waitinglist)
 
-> → Instructions on how to use this template are available here: [Getting started with uncloud (Docs)](https://docs.getuncloud.com/docs/intro)
+> → Companion guide for this project: [uncloud - 5min Quickstart](https://docs.getuncloud.com/docs/getting-started)
 
 ## Get it!
-`$ npx startmeup github.com/uncloud-org/uncloud-starter uncloud-app`
+`$ npx startmeup github.com/uncloud-org/uncloud-starter . uncloud-app`
 
 ## Setup
-`$ yarn install`  
-`$ yarn run login`
+After you navigated into the newly created folder (`$ cd uncloud-app`):  
+- **Install dependencies**  
+`$ npm install`  
+- **Login to uncloud** (account needed)  
+`$ npx uncloud login`
+- **Fire up the localhost**  
+`$ npx uncloud dev`
 
 ## Development
-`$ yarn start`
+`$ npx uncloud dev`
 
 ## Deploying
-`$ yarn deploy-preview` / `$ yarn deploy-production`
+`$ npm run deploy-preview` / `$ npm run deploy-production`
